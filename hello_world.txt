@@ -1,1 +1,18 @@
 hey how are you doing 
+
+#add repository to terminal 
+git clone url
+
+#see if editted, not committed
+touch 'text file'
+
+#staged 
+git add 'text file'
+
+#commit 
+git commit -m "A message describing what you have done
+to make this snapshot different"
+
+#Checking status 
+git status
+git log 
