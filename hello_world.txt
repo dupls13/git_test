@@ -16,3 +16,6 @@ to make this snapshot different"
 #Checking status 
 git status
 git log 
+
+#push to github repository
+git push origin main 
